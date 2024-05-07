@@ -7,6 +7,6 @@ more_btn.addEventListener('click', function() {
 
 let continuous_btn = document.querySelector('.l-btn');
 continuous_btn.addEventListener('click',function () {
-    window.location.href = 'https://www.youtube.com/';
+    window.location.href = 'https://www.youtube.com/watch?v=_e9yMqmXWo0';
 });
 
